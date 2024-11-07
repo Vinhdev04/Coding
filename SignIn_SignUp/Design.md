@@ -1,3 +1,3 @@
 # Design
 
-![Image](./Design/design.png)
+![Image](./Design/design.jpg)
